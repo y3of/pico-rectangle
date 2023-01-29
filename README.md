@@ -120,6 +120,10 @@ As of this release, 13 modes are built-in.
 
 - GP0 (by default, Start) => 8KRO Keyboard (8 Keys set DAC algorithm + 8KRO Keyboard USB configuration). See lower for mapping.
 
+- GP13 (by default, CLeft) => XInput with Melee resp. logic (Melee DAC algorithm with XInput USB configuration.)
+
+- GP14 (by default, A) => XInput mode.
+
 - Plugged into USB, nothing pressed => Melee GCC to USB adapter mode (Melee F1 DAC algorithm + Adapter USB configuration).
 
 <a name="advisedModes"/>
